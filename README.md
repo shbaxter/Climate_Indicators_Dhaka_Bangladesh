@@ -1,1 +1,7 @@
-# Climate_Indicators_Dhaka_Bangladesh
+Abstract: 
+
+Dhaka is widely recognized as one of the world’s most climate-vulnerable megacities, facing intensifying floods, heatwaves, and disease outbreaks due to climate change. This study applies a suite of ten climate change indicators across environmental, public health, community, and governance dimensions to assess Dhaka’s vulnerability. The findings reveal a multifaceted risk profile: rising temperatures and extreme rainfall are projected to exacerbate flooding; heat-related mortality has surged and dengue fever cases have increased more than tenfold; rapid urban population growth and climate-induced internal displacement strain infrastructure; and stark socioeconomic inequalities undermine adaptive capacity. These compounding vulnerabilities threaten to hinder urban development and public well-being as climate impacts intensify. However, by quantifying risks, the indicators highlight critical “hotspots” and demonstrate the pivotal role of scientific data in shaping effective policy responses. The analysis underscores that evidence-based policy and planning – from upgrading drainage systems to regulating land use – are urgently needed to build resilience. A balanced approach linking scientific assessment with urban governance is essential: integrating climate indicators into city planning will guide targeted interventions and inform adaptive strategies in Dhaka and other highly exposed cities.
+
+---
+
+The notebooks in this repo include analysis for the temperature indicator (temperature above surface, IPCC) and dengue fever time-series analysis. 
